@@ -1,0 +1,19 @@
+.OverviewContainerFlex {
+    display: flex; 
+
+    flex-direction: row;
+
+    gap: 20px;
+
+    margin-left: 10px;
+
+    justify-content: center;
+}
+
+.statsFlex {
+    display: flex; 
+
+    flex-direction: column;
+
+    gap: 10px;
+}

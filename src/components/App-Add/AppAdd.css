@@ -1,0 +1,28 @@
+.appAddButton {
+
+    width: 50%;
+    height: 50%; 
+
+    margin: auto;
+    outline: none;
+    background-color: #69749d;
+    border: 5px #505877;
+    border-radius: 50%;
+    font-size: 80px;
+    color: #F5FFFA;
+}
+
+.appAddButton:hover {
+
+    background-color: #7986b6;
+}
+
+.appAddFlex {
+
+    display: flex;
+    width: 300px;
+    background-color: #282b42;
+
+    border: 5px solid #4a74e9;
+    border-radius: 10px; 
+}
